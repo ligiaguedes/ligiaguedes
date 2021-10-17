@@ -2,13 +2,13 @@
 
 <h2> Hey there! I'm Lígia Filgueiras Guedes.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Electrical Enginner at Federal University of Juiz de Fora.
-- 💼 &nbsp; Working as Software Engineer at Itaú Unibanco.
+- &nbsp; Exploring new technologies.
+- &nbsp; Electrical Enginner at Federal University of Juiz de Fora.
+- &nbsp; Working as Software Engineer at Itaú Unibanco.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-lightgrey?style=flat&logo=Java&logoColor=red)
